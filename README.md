@@ -44,5 +44,5 @@
 1. **Clone المشروع:**
 
 ```bash
-git clone https://github.com/yourusername/student-crud-laravel.git
+git clone https://github.com/nour-abolila/CRUD_PROJECT.git
 
